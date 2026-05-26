@@ -1,0 +1,9 @@
+---
+alwaysApply: true
+---
+
+Only edit:
+- modeling.ipynb
+- app.py
+
+Do not touch other files.
