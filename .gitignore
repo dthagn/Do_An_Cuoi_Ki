@@ -12,6 +12,7 @@ venv/
 # IDE
 .idea/
 .vscode/
+.cursor/
 
 # OS
 Thumbs.db
