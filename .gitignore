@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+.cursor/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Local / duplicate data (canonical copy in data/)
+File_Supports/
